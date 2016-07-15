@@ -1,5 +1,5 @@
 # amazon.de-Orders
-Retrieve order history from amazon.de (Germany onl)  via [Web scraping](https://en.wikipedia.org/wiki/Web_scraping).
+Retrieve order history from amazon.de (Amazon Germany only)  via [Web scraping](https://en.wikipedia.org/wiki/Web_scraping).
 
 # Status
 - return the orders
