@@ -1,4 +1,4 @@
-# amazon.de-Orders
+# amazon.de-Orders 
 Retrieve order history from amazon.de (Amazon Germany only)  via [Web scraping](https://en.wikipedia.org/wiki/Web_scraping).
 
 # Status  [![Build Status](https://travis-ci.org/littleyoda/amazon.de-Orders.svg?branch=master)](https://travis-ci.org/littleyoda/amazon.de-Orders)
@@ -10,3 +10,7 @@ Retrieve order history from amazon.de (Amazon Germany only)  via [Web scraping](
 # Requirements
 - Oracle Java 8 with Javafx or higher
 - [UI4j](https://github.com/ui4j/ui4j) for Web scraping
+
+
+# Donations
+[![Paypal Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/paypalme/littleyoda/)
