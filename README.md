@@ -1,3 +1,8 @@
+see [Amazon Order History Reporter addon for Chrome](https://chrome.google.com/webstore/detail/amazon-order-history-repo/mgkilgclilajckgnedgjgnfdokkgnibi) for a maintained solution.
+
+
+
+
 # amazon.de-Orders 
 Retrieve order history from amazon.de (Amazon Germany only)  via [Web scraping](https://en.wikipedia.org/wiki/Web_scraping).
 
